@@ -1,5 +1,8 @@
 # airplay-protocol
 
+This is an interim version fixing a security vulnerability.
+Original project https://github.com/watson/airplay-protocol
+
 A low level protocol wrapper on top of the AirPlay HTTP API used to
 connect to an Apple TV.
 
